@@ -1,3 +1,4 @@
 Name: Zakaria
 Course: Comp Sci with AI
 Favorite language: Java
+Dislikes: Programming, Job CVs
